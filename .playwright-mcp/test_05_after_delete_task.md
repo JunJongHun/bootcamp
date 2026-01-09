@@ -1,0 +1,50 @@
+### Page state
+- Page URL: http://localhost:3001/
+- Page Title: Todo App
+- Page Snapshot:
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e6]:
+    - generic [ref=e7]:
+      - button [ref=e8] [cursor=pointer]:
+        - img [ref=e9]
+      - heading "Website todo" [level=1] [ref=e10]
+    - generic [ref=e12]:
+      - generic [ref=e13]:
+        - button [ref=e14] [cursor=pointer]:
+          - img [ref=e15]
+        - paragraph [ref=e18]: 언마렁나ㅣㅁㄹ
+        - button [ref=e19] [cursor=pointer]:
+          - img [ref=e20]
+      - generic [ref=e23]:
+        - button [ref=e24] [cursor=pointer]:
+          - img [ref=e25]
+        - paragraph [ref=e29]: ㅇㄴㅁㄹㅇㄴㅁㄹ
+        - button [ref=e30] [cursor=pointer]:
+          - img [ref=e31]
+      - generic [ref=e34]:
+        - button [ref=e35] [cursor=pointer]:
+          - img [ref=e36]
+        - paragraph [ref=e40]: Styleguide creation
+        - button [ref=e41] [cursor=pointer]:
+          - img [ref=e42]
+      - generic [ref=e45]:
+        - button [ref=e46] [cursor=pointer]:
+          - img [ref=e47]
+        - paragraph [ref=e51]: Readability About page
+        - button [ref=e52] [cursor=pointer]:
+          - img [ref=e53]
+      - generic [ref=e56]:
+        - button [ref=e57] [cursor=pointer]:
+          - img [ref=e58]
+        - paragraph [ref=e61]: Send wireframes
+        - button [ref=e62] [cursor=pointer]:
+          - img [ref=e63]
+    - textbox "새 작업 입력..." [ref=e68]
+    - button "New task" [ref=e70] [cursor=pointer]:
+      - img [ref=e71]
+      - text: New task
+  - button "Open Next.js Dev Tools" [ref=e77] [cursor=pointer]:
+    - img [ref=e78]
+  - alert [ref=e4]
+```
